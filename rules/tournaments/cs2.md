@@ -13,22 +13,200 @@ The rules may be available in several languages. If the individual versions diff
 ### Tournament Platform
 
 The official tournament platform for this tournament is Toornament.com.
-Please make sure that each Team is registered until 2.10.2026 16:00.
+Please make sure that each Team is registered until 30.09.2026 12:00 CEST. Via The Google Forms provided by the Tournament Admin
 
-All nmatches will be played Locally Hosted Server.
+All matches will be played Locally Hosted Server.
 
 The official tournament page will be shared via the main communication channel established in the main rulebook.
 
 ### Tournament Format
 
+The tournament format is determined by the final number of confirmed teams.
+
+All tournament formats are seeded according to the **Seeding Procedure** defined in this Rulebook.
+
+### Cross-Group Seeding and Tie Resolution
+
+Whenever teams with the same finishing position from different groups must be compared for seeding, byes, Playoff positioning, or qualification match pairings, the **pre-tournament seeding** will be used.
+
+Group-stage statistics from different groups, such as match record, round difference, rounds won, or win percentage, will not be used to compare equally placed teams across different groups.
+
+This ensures a consistent comparison in formats where groups may contain different numbers of teams due to predefined BYEs.
+
+Results within an individual group still determine the final placement of teams inside that group.
+
+The pre-tournament seeding is used to determine advantages such as bracket positioning, BYEs, or qualification match pairings. It does not automatically grant qualification unless explicitly stated in the respective tournament format.
+
+---
+
+### 16 Teams
+
 The tournament is played in the following stages:
 
-| Stage     | Type               |   Format   | Description                                                                 |
-|-----------|--------------------|------------|-----------------------------------------------------------------------------|
-| Stage 1   | Swiss Rounds       | Bo1/Bo3    | All Qualifing games and Elimination Games are BO3. The top 8 teams qualify for the Pro Playoffs. This Stage will be seeded according to the Seeding Procedure |                                                           
-| Stage 2   | Single Elimination | Bo3        | The bracket will be seeded according to the result of the first stage       |
+| Stage | Type | Format | Description |
+|---|---|---|---|
+| Stage 1 | Swiss Stage | Bo1 / Bo3 | Five Swiss rounds are played. Regular matches are Bo1. Qualification and Elimination matches are Bo3. Teams reaching 3 wins qualify for the Playoffs, while teams reaching 3 losses are eliminated. |
+| Stage 2 | Single Elimination Playoffs | Bo3 / Bo5 | The top 8 teams advance to the Playoffs. Quarterfinals and Semifinals are Bo3. The Grand Final is Bo5. |
 
-A total of five Swiss rounds will be played. Teams that achieve three wins will advance to the Playoffs, while teams that reach three losses will be eliminated.
+A total of five Swiss rounds will be played.
+
+Teams that achieve **three wins** advance to the Playoffs, while teams that reach **three losses** are eliminated.
+
+The Playoff bracket is seeded according to the results of the Swiss Stage.
+
+---
+
+### 17–20 Teams
+
+The tournament is played in the following stages:
+
+| Stage | Type | Format | Description |
+|---|---|---|---|
+| Stage 1 | Five Round-Robin Groups | Bo1 | Teams are divided into five groups with up to four teams per group. Every team plays each other team in its group once. |
+| Stage 2 | Runner-up Qualification | Bo3 | All five Group Winners qualify directly for the Top 8 Playoffs. The five Group Runner-ups are ranked according to the pre-tournament seeding. The highest-seeded Runner-up qualifies directly, while the remaining four Runner-ups play two Bo3 qualification matches. |
+| Stage 3 | Single Elimination Playoffs | Bo3 / Bo5 | Eight teams advance to the Playoffs. Quarterfinals and Semifinals are Bo3. The Grand Final is Bo5. |
+
+The group distribution depends on the final number of participating teams:
+
+| Teams | Group Distribution |
+|---|---|
+| 17 | 4 / 4 / 3 / 3 / 3 |
+| 18 | 4 / 4 / 4 / 3 / 3 |
+| 19 | 4 / 4 / 4 / 4 / 3 |
+| 20 | 4 / 4 / 4 / 4 / 4 |
+
+Missing team slots are handled through predefined BYEs and distributed according to the Seeding Procedure.
+
+All five **Group Winners** qualify directly for the Top 8 Playoffs.
+
+The five Group Runner-ups are ranked according to the **pre-tournament seeding** for the purpose of determining the remaining three Playoff spots.
+
+Group-stage statistics from different groups are not used to compare Runner-ups.
+
+The Runner-up Qualification is played as follows:
+
+- Runner-up Seed #1 qualifies directly for the Top 8 Playoffs.
+- Runner-up Seed #2 vs Runner-up Seed #5 — Bo3.
+- Runner-up Seed #3 vs Runner-up Seed #4 — Bo3.
+- The winners of both Bo3 matches qualify for the Top 8 Playoffs.
+
+This results in:
+
+**5 Group Winners + 1 highest-seeded Runner-up + 2 Runner-up Qualification winners = Top 8 Playoffs.**
+
+The Playoff bracket is seeded according to the Seeding Procedure.
+
+---
+
+### 21–24 Teams
+
+The tournament is played in the following stages:
+
+| Stage | Type | Format | Description |
+|---|---|---|---|
+| Stage 1 | Six Round-Robin Groups | Bo1 | Teams are divided into six groups with up to four teams per group. Every team plays each other team in its group once. |
+| Stage 2 | Play-In Round | Bo3 | The top 2 teams from each group advance, resulting in 12 teams. The four highest pre-tournament seeded Group Winners receive a bye directly to the Quarterfinals. The remaining eight teams play a Bo3 Play-In Round. |
+| Stage 3 | Single Elimination Playoffs | Bo3 / Bo5 | The four Play-In winners join the four Group Winners with Quarterfinal byes. Quarterfinals and Semifinals are Bo3. The Grand Final is Bo5. |
+
+The group distribution depends on the final number of participating teams:
+
+| Teams | Group Distribution |
+|---|---|
+| 21 | 4 / 4 / 4 / 3 / 3 / 3 |
+| 22 | 4 / 4 / 4 / 4 / 3 / 3 |
+| 23 | 4 / 4 / 4 / 4 / 4 / 3 |
+| 24 | 4 / 4 / 4 / 4 / 4 / 4 |
+
+Missing team slots are handled through predefined BYEs and distributed according to the Seeding Procedure.
+
+The **top 2 teams from each group** advance to the Top 12 Playoffs.
+
+All six Group Winners qualify for the Top 12.
+
+The six Group Winners are ranked according to the **pre-tournament seeding**.
+
+The four highest-seeded Group Winners receive a **Quarterfinal bye**.
+
+The remaining two Group Winners and all six Group Runner-ups enter the Play-In Round.
+
+Teams entering the Play-In Round are seeded according to the **pre-tournament seeding**.
+
+Group-stage statistics from different groups are not used to determine Quarterfinal byes or Play-In seeding.
+
+The remaining eight teams play four Bo3 Play-In matches, with the four winners advancing to the Quarterfinals.
+
+Quarterfinals and Semifinals are played as Bo3.
+
+The Grand Final is played as Bo5.
+
+---
+
+### 25–28 Teams
+
+The tournament is played in the following stages:
+
+| Stage | Type | Format | Description |
+|---|---|---|---|
+| Stage 1 | Seven Round-Robin Groups | Bo1 | Teams are divided into seven groups with up to four teams per group. Every team plays each other team in its group once. |
+| Stage 2 | Runner-up Last Chance Qualification | Bo1 / Bo3 | All seven Group Runner-ups enter a Last Chance Qualification bracket for the final Top 8 Playoff spot. The bracket is seeded according to the pre-tournament seeding. |
+| Stage 3 | Single Elimination Playoffs | Bo3 / Bo5 | All seven Group Winners and the winner of the Last Chance Qualification advance to the Top 8 Playoffs. Quarterfinals and Semifinals are Bo3. The Grand Final is Bo5. |
+
+The group distribution depends on the final number of participating teams:
+
+| Teams | Group Distribution |
+|---|---|
+| 25 | 4 / 4 / 4 / 4 / 3 / 3 / 3 |
+| 26 | 4 / 4 / 4 / 4 / 4 / 3 / 3 |
+| 27 | 4 / 4 / 4 / 4 / 4 / 4 / 3 |
+| 28 | 4 / 4 / 4 / 4 / 4 / 4 / 4 |
+
+Missing team slots are handled through predefined BYEs and distributed according to the Seeding Procedure.
+
+All seven **Group Winners** qualify directly for the Top 8 Playoffs.
+
+All seven **Group Runner-ups** enter the Last Chance Qualification for the remaining Playoff spot.
+
+The Runner-ups are seeded according to the **pre-tournament seeding**. Group-stage statistics from different groups are not used to seed the Last Chance Qualification.
+
+The Last Chance Qualification is played as follows:
+
+- Runner-up Seed #1 receives a first-round BYE.
+- Runner-up Seed #2 vs Runner-up Seed #7 — Bo1.
+- Runner-up Seed #3 vs Runner-up Seed #6 — Bo1.
+- Runner-up Seed #4 vs Runner-up Seed #5 — Bo1.
+- The three Opening Round winners join Runner-up Seed #1 in the LCQ Semifinals.
+- Both LCQ Semifinals are played as Bo1.
+- The LCQ Final is played as Bo3.
+- The winner of the LCQ Final receives the final Top 8 Playoff spot.
+
+This results in:
+
+**7 Group Winners + 1 Last Chance Qualification winner = Top 8 Playoffs.**
+
+The Top 8 Playoff bracket is seeded according to the Seeding Procedure.
+
+Quarterfinals and Semifinals are played as Bo3.
+
+The Grand Final is played as Bo5.
+
+---
+
+### 29–32 Teams
+
+The tournament is played in the following stages:
+
+| Stage | Type | Format | Description |
+|---|---|---|---|
+| Stage 1 | Swiss Stage | Bo1 / Bo3 | Five Swiss rounds are played. Regular matches are Bo1. Qualification and Elimination matches are Bo3. Teams reaching 3 wins qualify for the Playoffs, while teams reaching 3 losses are eliminated. |
+| Stage 2 | Single Elimination Playoffs | Bo3 / Bo5 | The top 16 teams advance to the Playoffs. All Playoff matches are Bo3 except the Grand Final, which is Bo5. |
+
+A total of five Swiss rounds will be played.
+
+Teams that achieve **three wins** advance to the Playoffs, while teams that reach **three losses** are eliminated.
+
+The top 16 teams advance to the Single Elimination Playoffs.
+
+The Playoff bracket is seeded according to the results of the Swiss Stage.
 
 ### Swiss Bracket
 
@@ -91,14 +269,18 @@ No accommodations will be made for other tournaments that may happen during the 
 ### Seeding
 <a id="Pre-event-Seeding"></a>
 #### Pre-event Seeding
-Coming into the event, all 32 teams are sorted based on their current global standing in the VRS or in case of none VRS Ranking AVG Faceit Elo will be used as Seeding Purpose
+Coming into the event, all participating teams are seeded based on the Valve Regional Standings (VRS) published on **7 September 2026**, which serves as the official seeding cutoff for the tournament.
+
+Teams without a VRS ranking on the cutoff date will be seeded based on the **average FACEIT Elo of their registered roster**.
+
+This pre-tournament seeding is used for group allocation, Swiss seeding, Playoff positioning, BYE allocation, and any cross-group ranking or qualification procedure where the Rulebook refers to the pre-tournament seeding.
 
 #### Stage Seeding
 * Stage 1: 
 	* All teams will use their [pre-event seed](#Pre-event-Seeding).
 
 * Playoffs:
-	* All teams will use their final seed from Stage 3 (see [Mid-stage Seed Calculation](#Mid-stage-Seed-Calculation)).
+	* All teams will use their final seed from Stage 1/2 (see [Mid-stage Seed Calculation](#Mid-stage-Seed-Calculation)).
 
 ##### Mid-stage Seed Calculation
 For all Swiss match-ups, after the initial matches, seed is determined (in order) by:
@@ -149,7 +331,7 @@ To choose on which map the match will be played, the ban will be done as follows
 * Team A starts banned followed by Team B.
 * Team A chooses one of the five remaining maps, this will be the first map played during the Match. Team B chooses the side of the first game.
 * Team B chooses one of the four remaining maps, this will be the second map played during the Match. Team A chooses the side of the second game.
-* Team A starts ban followed by Team B.
+* Team A ban 1 of the Remaining 3 Maps followed by Team B who removes one of the 2 Maps remaining.
 * The remaining map will be played for the tiebreaker. A Knife round will be played to define the side of the teams.
 
 #### Bo5
