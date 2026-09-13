@@ -8,6 +8,12 @@ These rules apply to all participants of the Valorant tournament.
 
 The rules may be available in several languages. If the individual versions differ, the English version is considered the source of the truth.
 
+## Exclusion from participation for banned accounts
+
+Participation in the tournament is not permitted if a player holds an account banned by Riot Games. This rule aligns with the applicable statutes and guidelines of Riot Games; as tournament organizers, we uphold and require compliance with these standards.
+
+Circumventing an existing ban by using a smurf or secondary account is strictly prohibited. If a player participates in the tournament under these circumstances, the entire team will be disqualified from the tournament.
+
 ## Tournament Information
 
 ### Tournament Platform
@@ -17,15 +23,20 @@ Please make sure that each member of your team has an account.
 
 The official tournament page will be shared via the main communication channel established in the main rulebook.
 
+The admin team reserves the right to change the tournament platform at short notice if a more suitable platform is found.
+
 ### Tournament Format
 
 The tournament is played in the following stages:
 
-| State   | Type         | Format | Description                                                                               |
-|---------|--------------|--------|-------------------------------------------------------------------------------------------|
-| Stage 1 | Swiss Rounds | Bo1    | The top 8 teams qualify for the next stage. This stage will not be seeded.                |
-| Stage 2 | Playoffs     | Bo1    | Double elimination. The bracket will be seeded according to the result of the first stage |
-| Stage 3 | Finals       | Bo3    |                                                                                           |
+| State   | Type               | Format | Description                                                                               |
+|---------|--------------------|--------|-------------------------------------------------------------------------------------------|
+| Stage 1 | Swiss Rounds       | Bo1    | The top 8 teams qualify for the next stage. This stage will not be seeded.                |
+| Stage 2 | Playoffs           | Bo1    | Double elimination. The bracket will be seeded according to the result of the first stage |
+| Stage 3 | Lower-Bracket Final| Bo3    |                                                                                           |
+| Stage 3 | Grindfinals        | Bo5    | The winner of the Upper-Bracket gets two Map-banns                                        |
+
+If there are two qualifying groups, the four best teams from each group qualify.
 
 ### Schedule
 
@@ -51,13 +62,13 @@ The map pool will be the same as the ones available in competitive mode 2 weeks 
 
 These are:
 
-* Abyss
+* Breeze
 * Ascent
-* Bind
 * Haven
-* Corrode
+* Fracture
 * Lotus
-* Sunset
+* Split
+* perl
 
 ### Map Selection Process
 
