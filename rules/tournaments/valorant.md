@@ -10,7 +10,7 @@ The rules may be available in several languages. If the individual versions diff
 
 ## Exclusion from participation for banned accounts
 
-Participation in the tournament is not permitted if a player holds an account banned by Riot Games. This rule aligns with the applicable statutes and guidelines of Riot Games; as tournament organizers, we uphold and require compliance with these standards.
+Participation in the tournament is not permitted if a player holds an account banned by Riot Games from participating in VALORANT. This rule aligns with the applicable statutes and guidelines of Riot Games; as tournament organizers, we uphold and require compliance with these standards.
 
 Circumventing an existing ban by using a smurf or secondary account is strictly prohibited. If a player participates in the tournament under these circumstances, the entire team will be disqualified from the tournament.
 
