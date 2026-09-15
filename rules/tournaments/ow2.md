@@ -26,6 +26,9 @@ The tournament is played in the following stages:
 | Stage 1 | Swiss Rounds       | Bo3    | 6 rounds. The top 8 teams qualify for the next stage. This stage will not be seeded    |
 | Stage 2 | Double Elimination | Bo5    | for all matches. The bracket will be seeded according to the result of the first stage |
 
+Playoffs' number of teams may be adapted to the number of participants.
+
+
 ## Schedule
 
 The first appointment for the team representative will be the briefing on Friday at 21:30.
